@@ -12,7 +12,7 @@
 
 - Solidity is used to create smart contracts on the Ethereum blockchain
 
-### Installation of Solidity using npm
+## Installation of Solidity using npm
 
 - Step 1: Install solc using npm
 
