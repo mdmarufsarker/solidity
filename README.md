@@ -1,16 +1,16 @@
 # Solidity
 
-## Solidity is a contract-oriented, high-level programming language for implementing smart contracts
+- Solidity is a contract-oriented, high-level programming language for implementing smart contracts
 
-## It was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM)
+- It was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM)
 
-## Solidity is statically typed, supports inheritance, libraries and complex user-defined types among other features
+- Solidity is statically typed, supports inheritance, libraries and complex user-defined types among other features
 
-## Solidity was first publicly discussed in 2014 and its first version was released in 2015
+- Solidity was first publicly discussed in 2014 and its first version was released in 2015
 
-## Solidity is developed by the Ethereum Foundation and a large community of contributors
+- Solidity is developed by the Ethereum Foundation and a large community of contributors
 
-## Solidity is used to create smart contracts on the Ethereum blockchain
+- Solidity is used to create smart contracts on the Ethereum blockchain
 
 ### Installation of Solidity using npm
 
